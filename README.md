@@ -1,4 +1,4 @@
-<h1 align="center">Hey, It's me Abdullah Azhar Khan</h1>
+<h1 align="center">hey, it's me abbdullah</h1>
 
 <h4 align="center">
 - I’m most probably learning something interesting.
